@@ -1,0 +1,10 @@
+Sarah Khan
+
+Skills
+Python, Machine Learning, TensorFlow, Pandas
+
+Experience
+4 years data scientist building ML models
+
+Education
+M.Tech AI

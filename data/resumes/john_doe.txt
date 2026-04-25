@@ -1,0 +1,10 @@
+John Doe
+
+Skills
+Power BI, Excel, SQL
+
+Experience
+5 years experience working on Power BI projects.
+
+Education
+BCA
